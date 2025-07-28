@@ -30,7 +30,8 @@ How to View
 
 Open the `.pbix` file using Power BI Desktop to explore the dashboard interactively. Users can click on segments, apply filters, and drill down into specific categories or time frames to explore performance insights. No coding knowledge required to navigate.
 
-About the Author
+# About the Author
+
 I'm Medhansh Medishetty, a data analytics enthusiast focused on solving business problems through data insights.  
 This project is part of my data portfolio. You can explore more at:  
 GitHub: github.com/MedhanshMedishetty  
